@@ -1,0 +1,1237 @@
+{
+  "product": "Lecture Notes Assistant",
+  "transcription": {
+    "transcript": "Today we are discussing stratified sampling. In stratified sampling, a population is divided into groups called strata. Researchers then select a random sample independently from each stratum. A sampling weight represents how many population members a simplified unit represents. It equals the inverse of that unit's probability of selection. For example, if a student has a one in 10 chance of being selected, their sampling weight is 10. Stratification can improve precision when individuals within each stratum are similar.",
+    "recognition_locale": "en-US",
+    "duration_seconds": 51.177,
+    "confidence": 0.8232,
+    "confidence_method": "word_count_weighted_utterance_confidence",
+    "words": [
+      {
+        "word": "today",
+        "offset": 5.11,
+        "duration": 0.56,
+        "confidence": 0.7938584
+      },
+      {
+        "word": "we",
+        "offset": 5.67,
+        "duration": 0.2,
+        "confidence": 0.89283204
+      },
+      {
+        "word": "are",
+        "offset": 5.87,
+        "duration": 0.16,
+        "confidence": 0.61968565
+      },
+      {
+        "word": "discussing",
+        "offset": 6.03,
+        "duration": 0.72,
+        "confidence": 0.7951987
+      },
+      {
+        "word": "stratified",
+        "offset": 6.75,
+        "duration": 0.88,
+        "confidence": 0.9214486
+      },
+      {
+        "word": "sampling",
+        "offset": 7.63,
+        "duration": 1,
+        "confidence": 0.93735003
+      },
+      {
+        "word": "in",
+        "offset": 9.99,
+        "duration": 0.24,
+        "confidence": 0.9377781
+      },
+      {
+        "word": "stratified",
+        "offset": 10.23,
+        "duration": 0.72,
+        "confidence": 0.8220816
+      },
+      {
+        "word": "sampling",
+        "offset": 10.95,
+        "duration": 1,
+        "confidence": 0.9542264
+      },
+      {
+        "word": "a",
+        "offset": 11.95,
+        "duration": 0.04,
+        "confidence": 0.19653891
+      },
+      {
+        "word": "population",
+        "offset": 11.99,
+        "duration": 0.88,
+        "confidence": 0.8407046
+      },
+      {
+        "word": "is",
+        "offset": 12.87,
+        "duration": 0.2,
+        "confidence": 0.8231143
+      },
+      {
+        "word": "divided",
+        "offset": 13.07,
+        "duration": 0.64,
+        "confidence": 0.94509834
+      },
+      {
+        "word": "into",
+        "offset": 13.71,
+        "duration": 0.28,
+        "confidence": 0.94616884
+      },
+      {
+        "word": "groups",
+        "offset": 13.99,
+        "duration": 0.44,
+        "confidence": 0.8532084
+      },
+      {
+        "word": "called",
+        "offset": 14.43,
+        "duration": 0.32,
+        "confidence": 0.93135846
+      },
+      {
+        "word": "strata",
+        "offset": 14.75,
+        "duration": 0.84,
+        "confidence": 0.14543124
+      },
+      {
+        "word": "researchers",
+        "offset": 16.31,
+        "duration": 0.76,
+        "confidence": 0.82222927
+      },
+      {
+        "word": "then",
+        "offset": 17.07,
+        "duration": 0.24,
+        "confidence": 0.9249323
+      },
+      {
+        "word": "select",
+        "offset": 17.31,
+        "duration": 0.52,
+        "confidence": 0.79425836
+      },
+      {
+        "word": "a",
+        "offset": 17.83,
+        "duration": 0.04,
+        "confidence": 0.8926996
+      },
+      {
+        "word": "random",
+        "offset": 17.87,
+        "duration": 0.48,
+        "confidence": 0.85285705
+      },
+      {
+        "word": "sample",
+        "offset": 18.35,
+        "duration": 0.6,
+        "confidence": 0.8214566
+      },
+      {
+        "word": "independently",
+        "offset": 18.95,
+        "duration": 0.92,
+        "confidence": 0.76186365
+      },
+      {
+        "word": "from",
+        "offset": 19.87,
+        "duration": 0.28,
+        "confidence": 0.93126273
+      },
+      {
+        "word": "each",
+        "offset": 20.15,
+        "duration": 0.4,
+        "confidence": 0.85478956
+      },
+      {
+        "word": "stratum",
+        "offset": 20.55,
+        "duration": 0.68,
+        "confidence": 0.8236318
+      },
+      {
+        "word": "a",
+        "offset": 24.99,
+        "duration": 0.04,
+        "confidence": 0.9023842
+      },
+      {
+        "word": "sampling",
+        "offset": 25.03,
+        "duration": 0.72,
+        "confidence": 0.8492598
+      },
+      {
+        "word": "weight",
+        "offset": 25.75,
+        "duration": 0.36,
+        "confidence": 0.85617375
+      },
+      {
+        "word": "represents",
+        "offset": 26.11,
+        "duration": 0.6,
+        "confidence": 0.8434873
+      },
+      {
+        "word": "how",
+        "offset": 26.71,
+        "duration": 0.24,
+        "confidence": 0.88114494
+      },
+      {
+        "word": "many",
+        "offset": 26.95,
+        "duration": 0.2,
+        "confidence": 0.87029994
+      },
+      {
+        "word": "population",
+        "offset": 27.15,
+        "duration": 0.64,
+        "confidence": 0.90474474
+      },
+      {
+        "word": "members",
+        "offset": 27.79,
+        "duration": 0.48,
+        "confidence": 0.8452232
+      },
+      {
+        "word": "a",
+        "offset": 28.27,
+        "duration": 0.04,
+        "confidence": 0.7446081
+      },
+      {
+        "word": "simplified",
+        "offset": 28.31,
+        "duration": 0.8,
+        "confidence": 0.75980407
+      },
+      {
+        "word": "unit",
+        "offset": 29.11,
+        "duration": 1.36,
+        "confidence": 0.8401551
+      },
+      {
+        "word": "represents",
+        "offset": 30.47,
+        "duration": 1.08,
+        "confidence": 0.81054026
+      },
+      {
+        "word": "it",
+        "offset": 31.75,
+        "duration": 0.24,
+        "confidence": 0.8061892
+      },
+      {
+        "word": "equals",
+        "offset": 31.99,
+        "duration": 0.48,
+        "confidence": 0.77840793
+      },
+      {
+        "word": "the",
+        "offset": 32.47,
+        "duration": 0.2,
+        "confidence": 0.87657994
+      },
+      {
+        "word": "inverse",
+        "offset": 32.67,
+        "duration": 0.56,
+        "confidence": 0.83246845
+      },
+      {
+        "word": "of",
+        "offset": 33.23,
+        "duration": 0.2,
+        "confidence": 0.91566193
+      },
+      {
+        "word": "that",
+        "offset": 33.43,
+        "duration": 0.24,
+        "confidence": 0.7437638
+      },
+      {
+        "word": "unit",
+        "offset": 33.67,
+        "duration": 0.4,
+        "confidence": 0.27517712
+      },
+      {
+        "word": "'s",
+        "offset": 34.07,
+        "duration": 0.04,
+        "confidence": 0.30791867
+      },
+      {
+        "word": "probability",
+        "offset": 34.11,
+        "duration": 0.8,
+        "confidence": 0.79725844
+      },
+      {
+        "word": "of",
+        "offset": 34.91,
+        "duration": 0.24,
+        "confidence": 0.8952651
+      },
+      {
+        "word": "selection",
+        "offset": 35.15,
+        "duration": 1,
+        "confidence": 0.9327135
+      },
+      {
+        "word": "for",
+        "offset": 36.43,
+        "duration": 0.36,
+        "confidence": 0.8739649
+      },
+      {
+        "word": "example",
+        "offset": 36.79,
+        "duration": 0.84,
+        "confidence": 0.8270145
+      },
+      {
+        "word": "if",
+        "offset": 37.67,
+        "duration": 0.24,
+        "confidence": 0.890516
+      },
+      {
+        "word": "a",
+        "offset": 37.91,
+        "duration": 0.04,
+        "confidence": 0.8199631
+      },
+      {
+        "word": "student",
+        "offset": 37.95,
+        "duration": 0.44,
+        "confidence": 0.7712721
+      },
+      {
+        "word": "has",
+        "offset": 38.39,
+        "duration": 0.32,
+        "confidence": 0.87050354
+      },
+      {
+        "word": "a",
+        "offset": 38.71,
+        "duration": 0.04,
+        "confidence": 0.7429373
+      },
+      {
+        "word": "one",
+        "offset": 38.75,
+        "duration": 0.32,
+        "confidence": 0.8952973
+      },
+      {
+        "word": "in",
+        "offset": 39.07,
+        "duration": 0.16,
+        "confidence": 0.7648653
+      },
+      {
+        "word": "ten",
+        "offset": 39.23,
+        "duration": 0.28,
+        "confidence": 0.8931654
+      },
+      {
+        "word": "chance",
+        "offset": 39.51,
+        "duration": 0.4,
+        "confidence": 0.8546987
+      },
+      {
+        "word": "of",
+        "offset": 39.91,
+        "duration": 0.08,
+        "confidence": 0.84859467
+      },
+      {
+        "word": "being",
+        "offset": 39.99,
+        "duration": 0.32,
+        "confidence": 0.9090165
+      },
+      {
+        "word": "selected",
+        "offset": 40.31,
+        "duration": 0.84,
+        "confidence": 0.9163397
+      },
+      {
+        "word": "their",
+        "offset": 41.39,
+        "duration": 0.24,
+        "confidence": 0.59705883
+      },
+      {
+        "word": "sampling",
+        "offset": 41.63,
+        "duration": 0.52,
+        "confidence": 0.9035182
+      },
+      {
+        "word": "weight",
+        "offset": 42.15,
+        "duration": 0.36,
+        "confidence": 0.7549523
+      },
+      {
+        "word": "is",
+        "offset": 42.51,
+        "duration": 0.12,
+        "confidence": 0.89352447
+      },
+      {
+        "word": "ten",
+        "offset": 42.63,
+        "duration": 0.68,
+        "confidence": 0.77955925
+      },
+      {
+        "word": "stratification",
+        "offset": 43.83,
+        "duration": 1,
+        "confidence": 0.8498114
+      },
+      {
+        "word": "can",
+        "offset": 44.83,
+        "duration": 0.16,
+        "confidence": 0.9650405
+      },
+      {
+        "word": "improve",
+        "offset": 44.99,
+        "duration": 0.48,
+        "confidence": 0.8762668
+      },
+      {
+        "word": "precision",
+        "offset": 45.47,
+        "duration": 0.68,
+        "confidence": 0.84093606
+      },
+      {
+        "word": "when",
+        "offset": 46.15,
+        "duration": 0.24,
+        "confidence": 0.87082976
+      },
+      {
+        "word": "individuals",
+        "offset": 46.39,
+        "duration": 0.72,
+        "confidence": 0.85795206
+      },
+      {
+        "word": "within",
+        "offset": 47.11,
+        "duration": 0.4,
+        "confidence": 0.9590372
+      },
+      {
+        "word": "each",
+        "offset": 47.51,
+        "duration": 0.36,
+        "confidence": 0.95909363
+      },
+      {
+        "word": "stratum",
+        "offset": 47.87,
+        "duration": 0.6,
+        "confidence": 0.84056
+      },
+      {
+        "word": "are",
+        "offset": 48.47,
+        "duration": 0.24,
+        "confidence": 0.9596746
+      },
+      {
+        "word": "similar",
+        "offset": 48.71,
+        "duration": 0.65,
+        "confidence": 0.9621039
+      }
+    ],
+    "segments": [
+      {
+        "text": "Today we are discussing stratified sampling.",
+        "offset": 5.11,
+        "duration": 3.52,
+        "confidence": 0.8267289,
+        "words": [
+          {
+            "word": "today",
+            "offset": 5.11,
+            "duration": 0.56,
+            "confidence": 0.7938584
+          },
+          {
+            "word": "we",
+            "offset": 5.67,
+            "duration": 0.2,
+            "confidence": 0.89283204
+          },
+          {
+            "word": "are",
+            "offset": 5.87,
+            "duration": 0.16,
+            "confidence": 0.61968565
+          },
+          {
+            "word": "discussing",
+            "offset": 6.03,
+            "duration": 0.72,
+            "confidence": 0.7951987
+          },
+          {
+            "word": "stratified",
+            "offset": 6.75,
+            "duration": 0.88,
+            "confidence": 0.9214486
+          },
+          {
+            "word": "sampling",
+            "offset": 7.63,
+            "duration": 1,
+            "confidence": 0.93735003
+          }
+        ]
+      },
+      {
+        "text": "In stratified sampling, a population is divided into groups called strata.",
+        "offset": 9.99,
+        "duration": 5.6,
+        "confidence": 0.7632463,
+        "words": [
+          {
+            "word": "in",
+            "offset": 9.99,
+            "duration": 0.24,
+            "confidence": 0.9377781
+          },
+          {
+            "word": "stratified",
+            "offset": 10.23,
+            "duration": 0.72,
+            "confidence": 0.8220816
+          },
+          {
+            "word": "sampling",
+            "offset": 10.95,
+            "duration": 1,
+            "confidence": 0.9542264
+          },
+          {
+            "word": "a",
+            "offset": 11.95,
+            "duration": 0.04,
+            "confidence": 0.19653891
+          },
+          {
+            "word": "population",
+            "offset": 11.99,
+            "duration": 0.88,
+            "confidence": 0.8407046
+          },
+          {
+            "word": "is",
+            "offset": 12.87,
+            "duration": 0.2,
+            "confidence": 0.8231143
+          },
+          {
+            "word": "divided",
+            "offset": 13.07,
+            "duration": 0.64,
+            "confidence": 0.94509834
+          },
+          {
+            "word": "into",
+            "offset": 13.71,
+            "duration": 0.28,
+            "confidence": 0.94616884
+          },
+          {
+            "word": "groups",
+            "offset": 13.99,
+            "duration": 0.44,
+            "confidence": 0.8532084
+          },
+          {
+            "word": "called",
+            "offset": 14.43,
+            "duration": 0.32,
+            "confidence": 0.93135846
+          },
+          {
+            "word": "strata",
+            "offset": 14.75,
+            "duration": 0.84,
+            "confidence": 0.14543124
+          }
+        ]
+      },
+      {
+        "text": "Researchers then select a random sample independently from each stratum.",
+        "offset": 16.31,
+        "duration": 4.92,
+        "confidence": 0.8479981,
+        "words": [
+          {
+            "word": "researchers",
+            "offset": 16.31,
+            "duration": 0.76,
+            "confidence": 0.82222927
+          },
+          {
+            "word": "then",
+            "offset": 17.07,
+            "duration": 0.24,
+            "confidence": 0.9249323
+          },
+          {
+            "word": "select",
+            "offset": 17.31,
+            "duration": 0.52,
+            "confidence": 0.79425836
+          },
+          {
+            "word": "a",
+            "offset": 17.83,
+            "duration": 0.04,
+            "confidence": 0.8926996
+          },
+          {
+            "word": "random",
+            "offset": 17.87,
+            "duration": 0.48,
+            "confidence": 0.85285705
+          },
+          {
+            "word": "sample",
+            "offset": 18.35,
+            "duration": 0.6,
+            "confidence": 0.8214566
+          },
+          {
+            "word": "independently",
+            "offset": 18.95,
+            "duration": 0.92,
+            "confidence": 0.76186365
+          },
+          {
+            "word": "from",
+            "offset": 19.87,
+            "duration": 0.28,
+            "confidence": 0.93126273
+          },
+          {
+            "word": "each",
+            "offset": 20.15,
+            "duration": 0.4,
+            "confidence": 0.85478956
+          },
+          {
+            "word": "stratum",
+            "offset": 20.55,
+            "duration": 0.68,
+            "confidence": 0.8236318
+          }
+        ]
+      },
+      {
+        "text": "A sampling weight represents how many population members a simplified unit represents. It equals the inverse of that unit's probability of selection. For example, if a student has a one in 10 chance of being selected, their sampling weight is 10.",
+        "offset": 24.99,
+        "duration": 18.32,
+        "confidence": 0.8113332,
+        "words": [
+          {
+            "word": "a",
+            "offset": 24.99,
+            "duration": 0.04,
+            "confidence": 0.9023842
+          },
+          {
+            "word": "sampling",
+            "offset": 25.03,
+            "duration": 0.72,
+            "confidence": 0.8492598
+          },
+          {
+            "word": "weight",
+            "offset": 25.75,
+            "duration": 0.36,
+            "confidence": 0.85617375
+          },
+          {
+            "word": "represents",
+            "offset": 26.11,
+            "duration": 0.6,
+            "confidence": 0.8434873
+          },
+          {
+            "word": "how",
+            "offset": 26.71,
+            "duration": 0.24,
+            "confidence": 0.88114494
+          },
+          {
+            "word": "many",
+            "offset": 26.95,
+            "duration": 0.2,
+            "confidence": 0.87029994
+          },
+          {
+            "word": "population",
+            "offset": 27.15,
+            "duration": 0.64,
+            "confidence": 0.90474474
+          },
+          {
+            "word": "members",
+            "offset": 27.79,
+            "duration": 0.48,
+            "confidence": 0.8452232
+          },
+          {
+            "word": "a",
+            "offset": 28.27,
+            "duration": 0.04,
+            "confidence": 0.7446081
+          },
+          {
+            "word": "simplified",
+            "offset": 28.31,
+            "duration": 0.8,
+            "confidence": 0.75980407
+          },
+          {
+            "word": "unit",
+            "offset": 29.11,
+            "duration": 1.36,
+            "confidence": 0.8401551
+          },
+          {
+            "word": "represents",
+            "offset": 30.47,
+            "duration": 1.08,
+            "confidence": 0.81054026
+          },
+          {
+            "word": "it",
+            "offset": 31.75,
+            "duration": 0.24,
+            "confidence": 0.8061892
+          },
+          {
+            "word": "equals",
+            "offset": 31.99,
+            "duration": 0.48,
+            "confidence": 0.77840793
+          },
+          {
+            "word": "the",
+            "offset": 32.47,
+            "duration": 0.2,
+            "confidence": 0.87657994
+          },
+          {
+            "word": "inverse",
+            "offset": 32.67,
+            "duration": 0.56,
+            "confidence": 0.83246845
+          },
+          {
+            "word": "of",
+            "offset": 33.23,
+            "duration": 0.2,
+            "confidence": 0.91566193
+          },
+          {
+            "word": "that",
+            "offset": 33.43,
+            "duration": 0.24,
+            "confidence": 0.7437638
+          },
+          {
+            "word": "unit",
+            "offset": 33.67,
+            "duration": 0.4,
+            "confidence": 0.27517712
+          },
+          {
+            "word": "'s",
+            "offset": 34.07,
+            "duration": 0.04,
+            "confidence": 0.30791867
+          },
+          {
+            "word": "probability",
+            "offset": 34.11,
+            "duration": 0.8,
+            "confidence": 0.79725844
+          },
+          {
+            "word": "of",
+            "offset": 34.91,
+            "duration": 0.24,
+            "confidence": 0.8952651
+          },
+          {
+            "word": "selection",
+            "offset": 35.15,
+            "duration": 1,
+            "confidence": 0.9327135
+          },
+          {
+            "word": "for",
+            "offset": 36.43,
+            "duration": 0.36,
+            "confidence": 0.8739649
+          },
+          {
+            "word": "example",
+            "offset": 36.79,
+            "duration": 0.84,
+            "confidence": 0.8270145
+          },
+          {
+            "word": "if",
+            "offset": 37.67,
+            "duration": 0.24,
+            "confidence": 0.890516
+          },
+          {
+            "word": "a",
+            "offset": 37.91,
+            "duration": 0.04,
+            "confidence": 0.8199631
+          },
+          {
+            "word": "student",
+            "offset": 37.95,
+            "duration": 0.44,
+            "confidence": 0.7712721
+          },
+          {
+            "word": "has",
+            "offset": 38.39,
+            "duration": 0.32,
+            "confidence": 0.87050354
+          },
+          {
+            "word": "a",
+            "offset": 38.71,
+            "duration": 0.04,
+            "confidence": 0.7429373
+          },
+          {
+            "word": "one",
+            "offset": 38.75,
+            "duration": 0.32,
+            "confidence": 0.8952973
+          },
+          {
+            "word": "in",
+            "offset": 39.07,
+            "duration": 0.16,
+            "confidence": 0.7648653
+          },
+          {
+            "word": "ten",
+            "offset": 39.23,
+            "duration": 0.28,
+            "confidence": 0.8931654
+          },
+          {
+            "word": "chance",
+            "offset": 39.51,
+            "duration": 0.4,
+            "confidence": 0.8546987
+          },
+          {
+            "word": "of",
+            "offset": 39.91,
+            "duration": 0.08,
+            "confidence": 0.84859467
+          },
+          {
+            "word": "being",
+            "offset": 39.99,
+            "duration": 0.32,
+            "confidence": 0.9090165
+          },
+          {
+            "word": "selected",
+            "offset": 40.31,
+            "duration": 0.84,
+            "confidence": 0.9163397
+          },
+          {
+            "word": "their",
+            "offset": 41.39,
+            "duration": 0.24,
+            "confidence": 0.59705883
+          },
+          {
+            "word": "sampling",
+            "offset": 41.63,
+            "duration": 0.52,
+            "confidence": 0.9035182
+          },
+          {
+            "word": "weight",
+            "offset": 42.15,
+            "duration": 0.36,
+            "confidence": 0.7549523
+          },
+          {
+            "word": "is",
+            "offset": 42.51,
+            "duration": 0.12,
+            "confidence": 0.89352447
+          },
+          {
+            "word": "ten",
+            "offset": 42.63,
+            "duration": 0.68,
+            "confidence": 0.77955925
+          }
+        ]
+      },
+      {
+        "text": "Stratification can improve precision when individuals within each stratum are similar.",
+        "offset": 43.83,
+        "duration": 5.53,
+        "confidence": 0.90375507,
+        "words": [
+          {
+            "word": "stratification",
+            "offset": 43.83,
+            "duration": 1,
+            "confidence": 0.8498114
+          },
+          {
+            "word": "can",
+            "offset": 44.83,
+            "duration": 0.16,
+            "confidence": 0.9650405
+          },
+          {
+            "word": "improve",
+            "offset": 44.99,
+            "duration": 0.48,
+            "confidence": 0.8762668
+          },
+          {
+            "word": "precision",
+            "offset": 45.47,
+            "duration": 0.68,
+            "confidence": 0.84093606
+          },
+          {
+            "word": "when",
+            "offset": 46.15,
+            "duration": 0.24,
+            "confidence": 0.87082976
+          },
+          {
+            "word": "individuals",
+            "offset": 46.39,
+            "duration": 0.72,
+            "confidence": 0.85795206
+          },
+          {
+            "word": "within",
+            "offset": 47.11,
+            "duration": 0.4,
+            "confidence": 0.9590372
+          },
+          {
+            "word": "each",
+            "offset": 47.51,
+            "duration": 0.36,
+            "confidence": 0.95909363
+          },
+          {
+            "word": "stratum",
+            "offset": 47.87,
+            "duration": 0.6,
+            "confidence": 0.84056
+          },
+          {
+            "word": "are",
+            "offset": 48.47,
+            "duration": 0.24,
+            "confidence": 0.9596746
+          },
+          {
+            "word": "similar",
+            "offset": 48.71,
+            "duration": 0.65,
+            "confidence": 0.9621039
+          }
+        ]
+      }
+    ],
+    "language": {
+      "name": "English",
+      "code": "en",
+      "confidence": 1,
+      "source": "Azure AI Language transcript detection"
+    }
+  },
+  "analysis": {
+    "language": {
+      "name": "English",
+      "code": "en",
+      "confidence": 1,
+      "source": "Azure AI Language transcript detection"
+    },
+    "key_terms": [
+      "many population members",
+      "stratified sampling",
+      "random sample",
+      "sampling weight",
+      "simplified unit",
+      "groups",
+      "Researchers",
+      "stratum",
+      "inverse",
+      "probability",
+      "selection",
+      "example",
+      "student",
+      "one",
+      "10 chance",
+      "Stratification",
+      "precision",
+      "individuals"
+    ],
+    "entities": [
+      {
+        "text": "Today",
+        "category": "DateTime",
+        "subcategory": "Date",
+        "confidence": 0.99
+      },
+      {
+        "text": "stratified sampling",
+        "category": "Skill",
+        "subcategory": null,
+        "confidence": 0.94
+      },
+      {
+        "text": "strata",
+        "category": "PersonType",
+        "subcategory": null,
+        "confidence": 0.77
+      },
+      {
+        "text": "Researchers",
+        "category": "PersonType",
+        "subcategory": null,
+        "confidence": 1
+      },
+      {
+        "text": "population members",
+        "category": "PersonType",
+        "subcategory": null,
+        "confidence": 0.78
+      },
+      {
+        "text": "student",
+        "category": "PersonType",
+        "subcategory": null,
+        "confidence": 0.99
+      },
+      {
+        "text": "one in 10",
+        "category": "Quantity",
+        "subcategory": "Number",
+        "confidence": 0.8
+      },
+      {
+        "text": "10",
+        "category": "Quantity",
+        "subcategory": "Number",
+        "confidence": 0.8
+      },
+      {
+        "text": "Stratification",
+        "category": "Skill",
+        "subcategory": null,
+        "confidence": 0.96
+      },
+      {
+        "text": "precision",
+        "category": "Skill",
+        "subcategory": null,
+        "confidence": 0.63
+      },
+      {
+        "text": "individuals",
+        "category": "PersonType",
+        "subcategory": null,
+        "confidence": 0.88
+      }
+    ],
+    "sentiment": {
+      "label": "neutral",
+      "confidence_scores": {
+        "positive": 0.02,
+        "neutral": 0.98,
+        "negative": 0
+      },
+      "aggregation": "single_document"
+    },
+    "chunks_analyzed": 1
+  },
+  "study_guide": {
+    "notes": [
+      "Today we are discussing stratified sampling.",
+      "In stratified sampling, a population is divided into groups called strata.",
+      "Researchers then select a random sample independently from each stratum.",
+      "A sampling weight represents how many population members a simplified unit represents.",
+      "It equals the inverse of that unit's probability of selection.",
+      "For example, if a student has a one in 10 chance of being selected, their sampling weight is 10.",
+      "Stratification can improve precision when individuals within each stratum are similar."
+    ],
+    "glossary": [
+      {
+        "term": "many population members",
+        "source_excerpt": "A sampling weight represents how many population members a simplified unit represents."
+      },
+      {
+        "term": "stratified sampling",
+        "source_excerpt": "Today we are discussing stratified sampling."
+      },
+      {
+        "term": "random sample",
+        "source_excerpt": "Researchers then select a random sample independently from each stratum."
+      },
+      {
+        "term": "sampling weight",
+        "source_excerpt": "A sampling weight represents how many population members a simplified unit represents."
+      },
+      {
+        "term": "simplified unit",
+        "source_excerpt": "A sampling weight represents how many population members a simplified unit represents."
+      },
+      {
+        "term": "groups",
+        "source_excerpt": "In stratified sampling, a population is divided into groups called strata."
+      },
+      {
+        "term": "Researchers",
+        "source_excerpt": "Researchers then select a random sample independently from each stratum."
+      },
+      {
+        "term": "stratum",
+        "source_excerpt": "Researchers then select a random sample independently from each stratum."
+      },
+      {
+        "term": "inverse",
+        "source_excerpt": "It equals the inverse of that unit's probability of selection."
+      },
+      {
+        "term": "probability",
+        "source_excerpt": "It equals the inverse of that unit's probability of selection."
+      },
+      {
+        "term": "selection",
+        "source_excerpt": "It equals the inverse of that unit's probability of selection."
+      },
+      {
+        "term": "example",
+        "source_excerpt": "For example, if a student has a one in 10 chance of being selected, their sampling weight is 10."
+      },
+      {
+        "term": "student",
+        "source_excerpt": "For example, if a student has a one in 10 chance of being selected, their sampling weight is 10."
+      },
+      {
+        "term": "one",
+        "source_excerpt": "For example, if a student has a one in 10 chance of being selected, their sampling weight is 10."
+      },
+      {
+        "term": "10 chance",
+        "source_excerpt": "For example, if a student has a one in 10 chance of being selected, their sampling weight is 10."
+      },
+      {
+        "term": "Stratification",
+        "source_excerpt": "Stratification can improve precision when individuals within each stratum are similar."
+      },
+      {
+        "term": "precision",
+        "source_excerpt": "Stratification can improve precision when individuals within each stratum are similar."
+      },
+      {
+        "term": "individuals",
+        "source_excerpt": "Stratification can improve precision when individuals within each stratum are similar."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Fill in the blank: A sampling weight represents how _____ a simplified unit represents.",
+        "answer": "many population members",
+        "source_excerpt": "A sampling weight represents how many population members a simplified unit represents."
+      },
+      {
+        "question": "Fill in the blank: Today we are discussing _____.",
+        "answer": "stratified sampling",
+        "source_excerpt": "Today we are discussing stratified sampling."
+      },
+      {
+        "question": "Fill in the blank: Researchers then select a _____ independently from each stratum.",
+        "answer": "random sample",
+        "source_excerpt": "Researchers then select a random sample independently from each stratum."
+      }
+    ],
+    "quiz_status": "ready",
+    "method": "extractive_notes_contextual_glossary_and_template_quiz",
+    "limitations": "Glossary entries show lecture excerpts, not independently generated definitions. Quiz questions are template-based."
+  },
+  "metrics": {
+    "key_terms_per_minute": 21.1,
+    "stt_ms": 23025.9,
+    "language_ms": 894.9,
+    "total_ms": 23921.7
+  }
+}
